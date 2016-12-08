@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1481009637 source:c:\users\varun\tictactoe\main.cpp
+	<iostream>
+
+1481010406 source:c:\users\varun\tictactoe\board.cpp
+	"board.h"
+
+1481010470 c:\users\varun\tictactoe\board.h
+
